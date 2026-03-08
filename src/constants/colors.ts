@@ -1,0 +1,18 @@
+export const Colors = {
+  background: '#F5EFE0',
+  cardBrown: '#7B5E2A',
+  buttonBrown: '#5C3D00',
+  inputBg: '#EDE4D0',
+  textOnCard: '#FFFFFF',
+  textDark: '#2C2C2C',
+  textMuted: '#8C7B6B',
+  goldAccent: '#E8B84B',
+  chipActive: '#5C3D00',
+  chipInactiveBg: '#EDE4D0',
+  chipActiveText: '#FFFFFF',
+  chipInactiveText: '#5C3D00',
+  cardBorder: '#C4A882',
+  white: '#FFFFFF',
+  black: '#000000',
+  tabBarBg: '#5C3D00',
+} as const;
